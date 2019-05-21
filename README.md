@@ -8,7 +8,8 @@ This is a book recommendation application that uses the tastedive api. Users typ
 * Jquery
 
 ## Screenshots
-
+Home: ![Alt](/images/MyNextBookHome.PNG "Title")
+Results: ![Alt](/images/mynextbookresults.PNG "Results")
 
 ## Demo
 
