@@ -12,5 +12,8 @@ Home: ![Alt](/images/MyNextBookHome.PNG "Title")
 Results: ![Alt](/images/mynextbookresults.PNG "Results")
 
 ## Demo
+Live App: [My Next Book][1] 
 
-[My Next Book]: https://agyeiyb.github.io/My-Next-Book// "Title"
+[1]: https://agyeiyb.github.io/My-Next-Book// "Title"
+
+
