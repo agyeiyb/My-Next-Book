@@ -13,7 +13,7 @@ Results: ![Alt](/images/mynextbookresults.PNG "Results")
 
 ## Demo
 
-[My Next Book][1] 
+[My Next Book][1] book
 
 
 [1]: https://agyeiyb.github.io/My-Next-Book// "Title"
